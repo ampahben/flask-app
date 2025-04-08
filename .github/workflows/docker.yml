@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKER_USERNAME/flask-devops-app:latest
+          tags: ampahben/flask-devops-app:latest
